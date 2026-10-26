@@ -1,16 +1,16 @@
-## Hi there 👋
+# Oi, eu sou o Paulo 👋
 
-<!--
-**paulocabral348/paulocabral348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Produção na UFC, em Fortaleza, com foco em
+automação de processos, análise de dados e Legal Ops.
 
-Here are some ideas to get you started:
+## O que eu faço
+- Automação com Power Automate (RPA), Google Apps Script e AppSheet
+- Dashboards no Looker Studio e análise de dados no Google Sheets
+- Soluções com IA (prompts estruturados e assistentes personalizados)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+- [Controle de Gastos](https://github.com/paulocabral348/controle-de-gastos-appscript):
+  app web em Apps Script ligado ao Google Sheets
+
+## Contato
+[LinkedIn](https://www.linkedin.com/in/pauloemanuel-222993253)
